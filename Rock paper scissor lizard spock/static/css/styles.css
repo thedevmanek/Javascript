@@ -5,6 +5,7 @@
     text-align: center;
     display: block;
 }
+.container
 .flex-box-rps{
     border: 2px solid black;
     display: flex;
