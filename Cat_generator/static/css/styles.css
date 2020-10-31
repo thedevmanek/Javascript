@@ -1,0 +1,18 @@
+.container {
+  border: 2px solid black;
+  width: 75%;
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+
+}
+#flex {
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#flex img{
+  padding: 5%;
+  box-shadow: 0px 10px 50px brown;
+} 
